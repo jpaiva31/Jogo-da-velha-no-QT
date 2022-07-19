@@ -1,5 +1,6 @@
 # Jogo-da-velha-no-QT
 Jogo da velha feito para ser compilado no QT Creator.
+Para iniciar o programa, abra o arquivo trabalho.pro com seu QT Creator.
 Para que o jogo tenha seu funcionamento adequado, solicito que nos arquivos "bola.cpp" e "xis.cpp", na linha 20,haja a troca do diretório para o diretório onde está a pasta no seu computador.
 No jogo, existem as opções de salvar jogo, carregar nogo e novo jogo.
 
