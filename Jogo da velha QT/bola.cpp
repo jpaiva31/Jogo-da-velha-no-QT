@@ -1,5 +1,4 @@
 #include "bola.h"
-
 #include <QLabel>
 #include <QDebug>
 bola::bola(int p):pecas(p)
